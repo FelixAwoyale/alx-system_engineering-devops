@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath example.txt
+realpath 0x00-shell-basics
