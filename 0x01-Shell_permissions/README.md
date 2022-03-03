@@ -1,1 +1,0 @@
-Alx Shell permissions
